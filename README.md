@@ -2,7 +2,7 @@
 
 | Student | Repo | Platform | Synopsis |
 |---------|------|----------|----------|
-| Adam    | | Python/TensorFlow | ML model that can synthesize any instrument |
+| Adam    | [eye_see_you](https://github.com/ccs-computing-w19/eye_see_you) | Python/TensorFlow | ML model that can synthesize any instrument |
 | Akshay/Jared | | Python GUI | TBD |
 | Ben | | |
 | Daniel (and Ben?) | [tetris_ai](https://github.com/ccs-computing-w19/tetris_ai)| Python | Tetris AI |
