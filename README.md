@@ -2,8 +2,8 @@
 
 | Student | Repo | Project Kanban Board | Platform | Synopsis |
 |---------|------|----------|--------|----------|
-| Adam    | [music-ml](https://github.com/ccs-computing-w19/music-ml) | | Python/TensorFlow | ML model that can synthesize any instrument |
-| Akshay/Jared | [eye_see_you](https://github.com/ccs-computing-w19/eye_see_you) | | Python GUI | TBD |
+| Adam    | [music-ml](https://github.com/ccs-computing-w19/music-ml) | [Kanban](https://github.com/ccs-computing-w19/music-ml/projects/1) | Python/TensorFlow | ML model that can synthesize any instrument |
+| Akshay/Jared | [eye_see_you](https://github.com/ccs-computing-w19/eye_see_you) | [Kanban](https://github.com/ccs-computing-w19/eye_see_you/projects/1)| Python GUI | TBD |
 | Ben | | |
 | Daniel (and Ben?) | [tetris_ai](https://github.com/ccs-computing-w19/tetris_ai)| | Python | Tetris AI |
 | Gabriel | [WAM-L2](https://github.com/ccs-computing-w19/WAM-L2)| | Python | Presentation/Impl of Prolog using Warren Abstract Machine |
