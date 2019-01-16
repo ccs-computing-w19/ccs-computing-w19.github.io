@@ -11,5 +11,5 @@
 | Jeffrey/Rajan | | C++| Generate a lead sheet from any song | 
 | Phill | [project_course_helper](https://github.com/ccs-computing-w19/project_course_helper)| Spring Boot/Java | Project Course Platform Based on Github Orgs |
 | Seif | [tagpro_bot](https://github.com/ccs-computing-w19/tagpro_bot)| JavaScript | Bot for tagpro (AI player for existing game) |
-| Xi | | Python | Classified, Specifics TBD | 
+| Xi | [SVD](https://github.com/ccs-computing-w19/SVD) | Python | Classified, Specifics TBD | 
 
